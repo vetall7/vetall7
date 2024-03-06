@@ -11,9 +11,10 @@
 
   <h3>During my two years of study I wrote many different projects in different programming languages, some of these projects can be found in my profile</h3>
   <ul>
-    <li><a href="link-to-project">Project Name 1</a>: Brief description of the project.</li>
-    <li><a href="link-to-project">Project Name 2</a>: Brief description of the project.</li>
-    <li><a href="link-to-project">Project Name 3</a>: Brief description of the project.</li>
+    <li><a href="https://github.com/vetall7/shortestRoad">Shortest road</a>: The project is written for the "Algorithms and data structures" subject. Program that finds the closest distance between two cities.</li>
+    <li><a href="https://github.com/vetall7/WorldSimulation3">Virtual world simulator</a>: The project is written for the subject of object-oriented programming and simulates a world in which there are many different organisms that behave differently, hunt each other and escape.</li>
+    <li><a href="https://github.com/vetall7/gipf">GIPF Game Solver</a>: GIPF game implementation and functions that anticipate the course of the game </li>
+    <li>and others</li>
   </ul>
 
   <h3>Skills</h3>
