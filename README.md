@@ -17,12 +17,6 @@
     <li>and others</li>
   </ul>
 
-  <h3>Skills</h3>
-  <ul>
-    <li>Programming Languages: [List languages here]</li>
-    <li>Technologies &amp; Tools: [List technologies and tools here]</li>
-  </ul>
-
   <h3>Get in Touch</h3>
   <p>I'm always open to collaboration and discussion. Feel free to reach out to me through:</p>
   <ul>
