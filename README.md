@@ -16,7 +16,6 @@
     <li><a href="https://github.com/vetall7/gipf">GIPF Game Solver</a>: GIPF game implementation and functions that anticipate the course of the game </li>
     <li>and others</li>
   </ul>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vetall7&size_weight=0.5&count_weight=0.5)
 
 
   <h3>Get in Touch</h3>
