@@ -6,7 +6,7 @@
   * [Movies web-service project](https://github.com/vetall7/isa-labs)
   * Monitoring and analysis of network traffic using an FPGA – A collaborative group project guided by mentors from Intel and Adtran.
 
-- 🌱 I’m currently learning **Kubernetes, advanced deployment, FPGA**
+- 🌱 I’m currently learning **Kubernetes, Domain Driven Design, advanced deployment, FPGA**
 
 - 📫 How to reach me **shapovalovvit0@gmail.com**
 
