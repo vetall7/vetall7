@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on:
-  * [Movies web-service project](https://github.com/vetall7/isa-labs)
+  * Building works management system. A real-life project aims to develop a system that will help my father track various building materials and tools distributed across different construction projects.
   * Monitoring and analysis of network traffic using an FPGA – A collaborative group project guided by mentors from Intel and Adtran.
 
 - 🌱 I’m currently learning **Kubernetes, AWS, Domain Driven Design, FPGA**
